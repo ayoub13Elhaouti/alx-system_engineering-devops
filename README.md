@@ -1,4 +1,1 @@
-alx-system_engineering-devops
-
-
-Basics
+# shell navigation and permissions !

@@ -1,1 +1,1 @@
-Linux SHell Basics Projetc
+print the current directory path
